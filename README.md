@@ -28,7 +28,7 @@
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 <details>
 <summary>Click to expand</summary>
@@ -1724,3 +1724,4 @@ This project was developed as part of the **42 School** curriculum.
 **Made with ❤️ at 42 School**
 
 </div>
+
