@@ -1710,18 +1710,6 @@ This project was developed as part of the **42 School** curriculum.
 @xero⚔ xero --devs
 ```
 
----
-
-```
-╭─────────────────────────────────────────────────────────────────────────────╮
-│                                                                             │
-│   "The shell is not just a command interpreter, it's a gateway to the       │
-│    operating system's soul." - The XERO Philosophy                          │
-│                                                                             │
-╰─────────────────────────────────────────────────────────────────────────────╯
-```
-
-**Made with ❤️ at 42 School**
-
 </div>
+
 
