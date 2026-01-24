@@ -1636,7 +1636,7 @@ ls: cannot access 'nonexistent': No such file or directory
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                   ║
-║                              ⚔️  THE XERO TEAM  ⚔️                                  ║
+║                              ⚔️  THE XERO TEAM  ⚔️                               ║
 ║                                                                                   ║
 ╠═══════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                   ║
@@ -1711,5 +1711,6 @@ This project was developed as part of the **42 School** curriculum.
 ```
 
 </div>
+
 
 
